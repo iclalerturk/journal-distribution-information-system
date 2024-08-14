@@ -1,15 +1,15 @@
 # journal distribution information system
-java object oriented programming course project
-included modules:
-->add subscriber
-->add journal
-->search journal
-->search subscriber
-->add subscription
-->list subscription with subscriber name
-->list subscription with issn
-->list sent orders
-->save status to file
-->read status from file
-->create report
+java object oriented programming course project <br/>
+included modules: <br/>
+->add subscriber <br/>
+->add journal <br/>
+->search journal <br/>
+->search subscriber <br/>
+->add subscription <br/>
+->list subscription with subscriber name <br/>
+->list subscription with issn <br/>
+->list sent orders <br/>
+->save status to file <br/>
+->read status from file <br/>
+->create report <br/>
  
